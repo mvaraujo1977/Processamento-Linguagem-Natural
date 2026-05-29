@@ -1,2 +1,2 @@
 # Processamento-Linguagem-Natural
-Materia de PNL
+Pos-Graduação FIAP - Estudo de Processamento de Linguagem Natural
